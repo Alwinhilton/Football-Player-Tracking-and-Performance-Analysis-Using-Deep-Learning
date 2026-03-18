@@ -25,7 +25,6 @@ K --> L[Speed & Distance Calculation]
 L --> M[Match Statistics]
 M --> N[Annotated Output Video]
 
-
 ---
 
 ## 🔶 Step-by-Step Pipeline
