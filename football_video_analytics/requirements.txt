@@ -1,0 +1,13 @@
+ultralytics
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+supervision
+roboflow
+tqdm
+scipy
+torch
+torchvision
+pickle-mixin
